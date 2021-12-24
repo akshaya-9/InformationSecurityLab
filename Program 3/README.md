@@ -9,7 +9,7 @@ c.Hill Cipher
 
 ## Output
 ## Ceaser Cipher Output
-![image](CeasarCipher.png)
+![image](CeaserCipher.png)
 
 ## Substitution Output
 ![image](Substitution.png)
