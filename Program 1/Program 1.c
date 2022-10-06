@@ -12,4 +12,5 @@ for(i=0;i<len;i++) {
     printf("%c",str1[i]);
 }
 printf("\n");
+return 0;
 }
